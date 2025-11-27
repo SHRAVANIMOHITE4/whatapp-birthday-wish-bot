@@ -1,1 +1,1 @@
-# whatapp-birthday-wish-bot
+# whatsapp-birthday-wish-bot
